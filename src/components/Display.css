@@ -1,0 +1,18 @@
+.display {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+.display-input {
+  font-size: 1.5rem;
+  color: #bbb;
+}
+
+.display-result {
+  font-size: 2rem;
+  font-weight: bold;
+}
